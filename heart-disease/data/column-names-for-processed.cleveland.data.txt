@@ -1,0 +1,14 @@
+age
+sex (1,0) 
+cp (1-4)
+trestbps
+chol
+fbs (1,0)
+restecg (0,1,2) 
+thalach
+exang (1,0)
+oldpeak
+slope (1,2,3) 
+ca
+thal (3,6,7)
+class att (0 is healthy, 1,2,3,4 is sick)

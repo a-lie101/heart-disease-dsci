@@ -1,0 +1,14 @@
+Age
+sex
+chest pain type (angina, abnang, notang, asympt)
+Trestbps (resting blood pres) 
+cholesteral 
+fasting blood sugar < 120 (true or false) 
+resting ecg (norm, abn, hyper)
+max heart rate
+exercise induced angina (true or false) 
+oldpeak
+slope (up, flat, down)
+number of vessels colored (???) 
+thal (norm, fixed, rever)
+class (either healthy (buff) or with heart-disease (sick))
